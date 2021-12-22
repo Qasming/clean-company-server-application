@@ -1,0 +1,2 @@
+class CreateUserDto:
+    phone: str = ""

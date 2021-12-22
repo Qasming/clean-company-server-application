@@ -1,0 +1,2 @@
+class AddressNotValid(Exception):
+    pass

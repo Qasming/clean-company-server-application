@@ -1,0 +1,2 @@
+class SendCodeDto:
+    phone: str = ""

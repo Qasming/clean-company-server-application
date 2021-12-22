@@ -1,0 +1,2 @@
+class ReviewNotFound(Exception):
+    pass

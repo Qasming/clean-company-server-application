@@ -1,0 +1,2 @@
+class AdditionalServiceNotValid(Exception):
+    pass
