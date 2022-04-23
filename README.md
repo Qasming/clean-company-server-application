@@ -1,3 +1,3 @@
-# clean-company-server-application
+# Clean company api-application
 
 Course project 7
